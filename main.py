@@ -4,7 +4,7 @@
 
 import os
 import Indication as indi
-
+import logging
 # for user in users:
 # 	print(user)
 
@@ -14,6 +14,7 @@ def createDirectoyTasks():
 
 
 if __name__ == "__main__":
+	logging.basicConfig(filename='medrating.log', level=logging.INFO)
 	createDirectoyTasks()
 	indicator = indi.Indication()
 	indicator.creatUsers()
