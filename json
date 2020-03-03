@@ -1,0 +1,203 @@
+[
+{
+    'website': 'hildegard.org',
+    'address': {
+        'street': 'Kulas Light',
+        'suite': 'Apt. 556',
+        'geo':
+    {'lng': '81.1496', 'lat': '-37.3159'},
+        'city': 'Gwenborough',
+        'zipcode': '92998-3874'},
+        'company':
+            {'bs': 'harness real-time e-markets',
+                'catchPhrase': 'Multi-layered client-server neural-net',
+                'name': 'Romaguera-Crona'},
+                'phone': '1-770-736-8031 x56442',
+                'username': 'Bret', 'id': 1,
+                'email': 'Sincere@april.biz',
+                'name': 'Leanne Graham'},
+    {'website': 'anastasia.net',
+    'address':
+        {'street': 'Victor Plains',
+         'suite': 'Suite 879',
+         'geo':
+            {'lng': '-34.4618',
+                'lat': '-43.9509'},
+                'city': 'Wisokyburgh',
+                    'zipcode': '90566-7771'},
+                    'company':
+                        {'bs': 'synergize scalable supply-chains',
+                            'catchPhrase': 'Proactive didactic contingency',
+                            'name': 'Deckow-Crist'
+                        },
+                        'phone': '010-692-6593 x09125',
+                        'username': 'Antonette',
+                        'id': 2,
+                        'email': 'Shanna@melissa.tv',
+                        'name': 'Ervin Howell'
+     },
+    {'website': 'ramiro.info',
+        'address':
+            {'street': 'Douglas Extension',
+                'suite': 'Suite 847',
+                'geo': {'lng': '-47.0653', 'lat': '-68.6102'}, 'city': 'McKenziehaven', 'zipcode': '59590-4157'},
+                'company': {'bs': 'e-enable strategic applications', 'catchPhrase': 'Face to face bifurcated interface', 'name': 'Romaguera-Jacobson'},
+                'phone': '1-463-123-4447',
+                'username': 'Samantha',
+                'id': 3,
+                'email': 'Nathan@yesenia.net',
+                'name': 'Clementine Bauch'},
+     {'website': 'kale.biz',
+     'address':
+        {
+            'street': 'Hoeger Mall', 'suite': 'Apt. 692',
+            'geo': {'lng': '-164.2990', 'lat': '29.4572'}, 'city': 'South Elvis', 'zipcode': '53919-4257'},
+            'company': {
+                'bs': 'transition cutting-edge web services',
+                'catchPhrase': 'Multi-tiered zero tolerance productivity',
+                'name': 'Robel-Corkery'
+                },
+                'phone': '493-170-9623 x156',
+                'username': 'Karianne',
+                'id': 4,
+                'email': 'Julianne.OConner@kory.org',
+                'name': 'Patricia Lebsack'
+     },
+     {
+        'website': 'demarco.info',
+        'address': {
+            'street': 'Skiles Walks',
+            'suite': 'Suite 351',
+            'geo': {
+                    'lng': '62.5342',
+                    'lat': '-31.8129'
+                },
+            'city': 'Roscoeview',
+            'zipcode': '33263'
+        },
+        'company': {
+            'bs': 'revolutionize end-to-end systems',
+            'catchPhrase': 'User-centric fault-tolerant solution',
+            'name': 'Keebler LLC'},
+            'phone': '(254)954-1289',
+            'username': 'Kamren',
+            'id': 5,
+            'email': 'Lucio_Hettinger@annie.ca',
+            'name': 'Chelsey Dietrich'
+     },
+     {
+        'website': 'ola.org',
+        'address': {
+                'street': 'Norberto Crossing',
+                'suite': 'Apt. 950',
+                'geo': {
+                    'lng': '71.7478',
+                    'lat': '-71.4197'
+                },
+                'city': 'South Christy',
+                'zipcode': '23505-1337'
+            },
+        'company': {
+            'bs': 'e-enable innovative applications',
+            'catchPhrase': 'Synchronised bottom-line interface',
+            'name': 'Considine-Lockman'
+            },
+            'phone': '1-477-935-8478 x6430',
+            'username': 'Leopoldo_Corkery',
+            'id': 6,
+            'email': 'Karley_Dach@jasper.info',
+            'name': 'Mrs. Dennis Schulist'
+        },
+        {
+            'website': 'elvis.io',
+            'address': {
+                'street': 'Rex Trail',
+                'suite': 'Suite 280',
+                'geo': {
+                    'lng': '21.8984',
+                    'lat': '24.8918'
+                    },
+                    'city': 'Howemouth',
+                    'zipcode': '58804-1099'
+            },
+            'company': {
+                'bs': 'generate enterprise e-tailers',
+                'catchPhrase': 'Configurable multimedia task-force',
+                'name': 'Johns Group'},
+                'phone': '210.067.6132',
+                'username': 'Elwyn.Skiles',
+                'id': 7,
+                'email': 'Telly.Hoeger@billy.biz',
+                'name': 'Kurtis Weissnat'
+        },
+        {
+            'website': 'jacynthe.com',
+            'address': {
+                'street': 'Ellsworth Summit',
+                'suite': 'Suite 729',
+                'geo': {
+                        'lng': '-120.7677',
+                        'lat': '-14.3990'
+                    },
+                'city': 'Aliyaview',
+                'zipcode': '45169'
+            },
+            'company': {
+                'bs': 'e-enable extensible e-tailers',
+                'catchPhrase': 'Implemented secondary concept',
+                'name': 'Abernathy Group'
+            },
+            'phone': '586.493.6943 x140',
+            'username': 'Maxime_Nienow',
+            'id': 8,
+            'email': 'Sherwood@rosamond.me',
+            'name': 'Nicholas Runolfsdottir V'
+        },
+        {
+            'website': 'conrad.com',
+            'address': {
+                'street': 'Dayna Park',
+                'suite': 'Suite 449',
+                'geo': {
+                    'lng': '-168.8889',
+                    'lat': '24.6463'
+                },
+                'city': 'Bartholomebury',
+                'zipcode': '76495-3109'},
+                'company': {
+                    'bs': 'aggregate real-time technologies',
+                    'catchPhrase': 'Switchable contextually-based project',
+                    'name': 'Yost and Sons'
+                },
+                'phone': '(775)976-6794 x41206',
+                'username': 'Delphine',
+                'id': 9,
+                'email': 'Chaim_McDermott@dana.io',
+                'name': 'Glenna Reichert'
+        },
+        {
+            'website': 'ambrose.net',
+            'address': {
+                'street': 'Kattie Turnpike',
+                'suite': 'Suite 198',
+                'geo': {
+                    'lng': '57.2232',
+                    'lat': '-38.2386'
+                },
+                'city': 'Lebsackbury',
+                'zipcode': '31428-2261'
+            },
+            'company': {
+                'bs': 'target end-to-end models',
+                'catchPhrase': 'Centralized empowering task-force',
+                'name': 'Hoeger LLC'
+            },
+            'phone': '024-648-3804',
+            'username': 'Moriah.Stanton',
+            'id': 10,
+            'email': 'Rey.Padberg@karina.biz',
+            'name': 'Clementina DuBuque'}
+]
+
+
+{'website': 'hildegard.org', 'address': {'street': 'Kulas Light', 'suite': 'Apt. 556', 'geo': {'lng': '81.1496', 'lat': '-37.3159'}, 'city': 'Gwenborough', 'zipcode': '92998-3874'}, 'company': {'bs': 'harness real-time e-markets', 'catchPhrase': 'Multi-layered client-server neural-net', 'name': 'Romaguera-Crona'}, 'phone': '1-770-736-8031 x56442', 'username': 'Bret', 'id': 1, 'email': 'Sincere@april.biz', 'name': 'Leanne Graham'}

@@ -1,0 +1,25 @@
+{
+    'website': 'anastasia.net',
+    'address':
+        {
+            'street':'Victor Plains',
+            'suite': 'Suite 879',
+         'geo':
+            {
+                'lng': '-34.4618',
+                'lat': '-43.9509'
+            },
+            'city': 'Wisokyburgh',
+            'zipcode': '90566-7771'},
+            'company':
+                {
+                    'bs': 'synergize scalable supply-chains',
+                    'catchPhrase': 'Proactive didactic contingency',
+                    'name': 'Deckow-Crist'
+                },
+                'phone': '010-692-6593 x09125',
+                'username': 'Antonette',
+                'id': 2,
+                'email': 'Shanna@melissa.tv',
+                'name': 'Ervin Howell'
+}
